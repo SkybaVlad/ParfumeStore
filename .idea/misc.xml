@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (AromaStore)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (ParfumeStore)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (AromaStore)" project-jdk-type="Python SDK" />
 </project>
